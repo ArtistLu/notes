@@ -1,0 +1,5 @@
+本地gitblog操作命令:
+php index.php Gitblog exportSite
+
+cp -r _site/* ~/PhpstormProjects/ArtistLu.github.io
+
